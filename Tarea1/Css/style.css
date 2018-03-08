@@ -1,0 +1,31 @@
+*{
+	font-family: Helvetica;
+
+}
+
+p{
+	display: block;
+
+}
+
+h6 {
+	color:grey;
+}
+h5{
+	color:grey;
+}
+img{
+
+	position:relative;
+	left: 50px;
+
+}
+.bloque{
+
+	position: relative;
+	left:50px;
+	display:block;
+	width: 850px;
+
+}
+
