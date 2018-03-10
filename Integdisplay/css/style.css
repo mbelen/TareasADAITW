@@ -1,0 +1,94 @@
+*{
+ font-family: Helvetica;
+}
+
+nav{
+	background-color: orange;
+	text-align: center;
+	margin-left: 30px;
+	margin-right: 59px;
+	margin-bottom: 30px;
+}
+
+nav div{
+	display: inline-block;
+	margin:20px;
+}
+
+a{
+ 	font-size: 30px;
+}
+
+div.titulo{
+ 	margin-left: 35%;
+ 	margin-top: 10px;
+}
+
+section div.trescuart{
+	width: 29.8%;
+	height:400px;
+	margin-left:30px;
+	display: inline-block;
+}
+
+section div.largo{
+	width:94%;
+	height: 200px;
+	margin-left:30px;
+	display: inline-block;
+}
+
+section div.ancho{
+	width:45.8%;
+	height: 200px;
+	display: inline-block;
+	margin-left: 30px;
+}
+
+.banner {
+	background-color: grey;
+	height: 100px;
+	width: auto;
+}
+
+.der{ 
+	width: 150px;	
+	height: 100px;
+	float:right;
+}
+
+.izq {
+ 	width: 150px;
+ 	height: 100px;
+ 	float:left;
+}
+
+.titulo{
+ 	text-align: center;
+ 	display: inline-block;
+}
+
+.cent{
+ 	margin-left: 40%;
+}
+ 
+.cont{
+	width: 100%;
+}
+
+.rosa{
+ 	background-color: #FFB6C1;	
+}
+
+.amarillo {
+	background-color: #FAFAD2;
+}
+
+.azul{
+	background-color: #87CEFA;
+}
+
+.violeta {
+	background-color: #DDA0DD;
+}
+
