@@ -1,0 +1,67 @@
+*{
+	font-family: Helvetica;
+}
+
+/* Tags */
+
+
+/* Tag+class */
+
+
+/* class */
+.contG {
+	width: 400px;
+	height: 650px;
+	border: solid;
+	border-width: 1px;
+	border-radius: 2px;
+	border-color: #A52A2A;
+	background-color: #F5F5F5
+}
+
+.redotm {	
+	border-color: #A52A2A;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%; 
+}
+
+.posm {
+	margin-top: 50px;
+	margin-left: 95px;
+}
+
+.espaciado{
+	padding-top: 15px;
+}
+
+.smaller {
+	width: 200px;
+	height: 200px;
+}
+
+.nombre {
+	font-size: 30px; 
+	text-align: center;
+	padding-right: 50px;
+}
+
+.oficio {
+	text-align: center;
+	margin-right: 40px;
+}
+
+.descr{
+	text-align: center ;
+	padding-right: 10px;
+	margin-right: 5%;
+	margin-left: 5%;	
+}
+
+.chiquitolinea{
+	width: 30px;
+	height: 30px;
+	padding-right: 20px;
+	padding-top: 40px;
+	padding-left: 40px;
+}
