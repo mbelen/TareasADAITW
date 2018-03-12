@@ -1,0 +1,49 @@
+*{
+
+}
+h1{
+	text-align: center;
+	padding-top: 220px;
+}
+
+p{
+	display:inline-block;
+	margin-right: 10px;
+}
+
+button{
+	margin-left: 20px;
+}
+
+img{
+	width: 36px;
+	height: 36px;
+	margin-right: 30px;
+}
+
+footer{
+	text-align: center;
+
+}
+
+#contenedor{
+	background-color:#B0C4DE;
+	width: 1480px;
+	height: 440px;
+}
+
+.centrado{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.derecha{
+	margin-top: 30px; 
+	float:right;
+}
+.abajo{
+	 position:absolute;
+     bottom:0;
+     text-align: center;
+     margin-left: 40%;
+}
